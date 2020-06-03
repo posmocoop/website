@@ -312,10 +312,148 @@ Genossenschaftsmitglieder werden über die eingegangenen Vorschläge per E-Mail 
 1. Zählt die Genossenschaft mehr als 300 Mitglieder oder besteht die Mehrheit der Mitglieder aus Genossenschaften, kann an die Stelle von Generalversammlungsbeschlüssen die Urabstimmung (schriftliche Stimmabgabe) der
 Mitglieder im Sinne von [Art. 880 OR](https://www.admin.ch/opc/de/classified-compilation/19110009/index.html#a880) treten.
 
-          
-...              
-                              
-Die vollständigen Statuten findet man [hier](https://github.com/posmocoop/general/blob/master/statutes.md). 
+
+## B. Die Verwaltung
+
+### Art. 19 – Mitglieder der Verwaltung
+
+1. Die Verwaltung besteht aus mindestens drei Mitgliedern. Alle Mitglieder der Verwaltung müssen Mitglieder der Genossenschaft sein.
+
+2. Die Verwaltung konstituiert sich selbst. Sie bezeichnet ihren Präsidenten und ihren Vizepräsidenten.
+
+### Art. 20 – Amtszeit
+1. Die reguläre Amtszeit eines Mitglieds der Verwaltung beträgt 2 Jahre. Die Wiederwahl ist zulässig.
+
+2. Die maximale Amtszeit eines Mitgliedes der Verwaltung beträgt 12 Jahre. Die Wiederwahl ist zulässig, jedoch frühestens 2 Jahre nach Rücktritt.
+
+### Art. 21 – Aufgaben und Befugnisse
+1. Die Verwaltung ist für die Behandlung aller Geschäfte zuständig, die nicht durch Gesetz oder diese Statuten einem anderen Organ vorbehalten sind.
+
+2. Insbesondere obliegen der Verwaltung folgende nicht delegierbare Aufgaben und
+Befugnisse:
+<ol type="a" start="a">
+<li>die Oberleitung der Genossenschaft und die Erteilung der nötigen Weisungen;</li>
+<li>die Festlegung der Organisation;</li>
+<li>die Festlegung der Bedingungen bezüglich der Wertschöpfung aus der Sekundärnutzung der Daten der Nutzer*innen
+(unter deren Einwilligung gemäss Art. 4 und Art. 5);</li>
+<li>die Erstellung und Anpassung der jährlichen Budgets der Genossenschaft;</li>
+<li>die Ausgestaltung des Rechnungswesens, der Finanzkontrolle sowie der Finanzplanung, sofern diese für die Führung der Genossenschaft notwendig ist;</li>
+<li>die Vorbereitung der Geschäfte der Generalversammlung und Ausführung deren Beschlüsse;</li>
+<li>die Ernennung und Abberufung der mit der Geschäftsführung und der Vertretung betrauten Personen;</li>
+<li>die Oberaufsicht über die mit der Geschäftsführung und Vertretung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze, Statuten und allfälliger Reglemente;</li>
+<li>der Ausschluss von Mitgliedern und die Sicherstellung der regelmässigen Führung des Mitgliederregisters;</li>
+<li>der Umgang mit Rekursen gegen Beschlüsse der Geschäftsführung: die Beschlussfassung über Empfehlungen des Ethikrats.</li>
+<li>Übertragung der Geschäftsführung und der Vertretung</li>
+</ol>
+
+3. Die Verwaltung kann die Geschäftsführung oder einzelne Teile derselben sowie die Vertretung der Genossenschaft an eine oder mehrere Personen, Mitglieder der Verwaltung oder Dritte, die nicht Genossenschafter sein müssen, übertragen. Die
+Verwaltung kann das Organisationsreglement erlassen und die entsprechenden Vertragsverhältnisse ordnen.
+
+4. Dieses Reglement ordnet die Geschäftsführung, bestimmt die hierfür erforderlichen Stellen, umschreibt deren Aufgaben und regelt insbesondere die Berichterstattung.
+
+5. Soweit die Geschäftsführung nicht übertragen worden ist, steht sie allen Mitgliedern des Verwaltungsrates gesamthaft zu.
+
+6. Die Verwaltung bezeichnet die vertretungsberechtigten Personen und die Art ihrer Zeichnungsberechtigung.
+
+### Art. 22 – Sitzungen
+1. Die Verwaltung tritt so oft zusammen, wie es die Geschäfte der Genossenschaft erfordern, jedoch mindestens viermal im Jahr.
+
+2. Der Präsident der Verwaltung beruft die Sitzung ein, erstellt die Tagesordnung und führt den Vorsitz in der Versammlung. Der Präsident kann Aufgaben an den Vizepräsidenten delegieren.
+
+3. Jedes Mitglied der Verwaltung ist berechtigt, unter Angabe der Gründe vom Präsidenten die Einberufung einer Sitzung verlangen. Wenn diesem Antrag nicht innerhalb von 14 Tagen stattgegeben wird, kann das betroffene Mitglied die Sitzung auch alleine einberufen.
+
+### Art. 23 – Beschlussfähigkeit und Beschlussfassung
+1. Die Verwaltung gilt als beschlussfähig, wenn die Mehrheit ihrer Mitglieder anwesend ist.
+
+2. Die Verwaltung fasst ihre Beschlüsse und führt ihre Wahlen mit absoluter Mehrheit der Stimmen der anwesenden Mitglieder durch; die Stimmabgabe durch einen Vertreter ist nicht erlaubt. Bei Stimmengleichheit hat der Vorsitzende den Stichentscheid.
+
+3. Die Versammlungen der Verwaltung können als Präsenzversammlung, telefonisch oder als Videokonferenz abgehalten werden.
+
+4. Beschlüsse können ohne Durchführung einer Sitzung auch auf dem Wege der schriftlichen Zustimmung (Zirkularbeschluss) zu einem Antrag gefasst werden, sofern nicht ein Mitglied die mündliche Beratung verlangt. Zirkularbeschlüsse können auch per
+E-Mail, welche über eine qualifizierte elektronische Signatur im Sinne von Art. 14 Abs. 2bis OR verfügt, gefasst werden.
+
+5. Über die Verhandlungen und Beschlüsse ist ein Protokoll zu führen, das vom Vorsitzenden und vom Protokollführer unterzeichnet wird.
+
+## C. Ethikrat		
+### Art. 24 – Wahl und Konstituierung				 							
+1. Der Ethikrat, auch Datenethik-Rat, besteht aus drei bis sieben Mitgliedern, die von der Generalversammlung gewählt werden. Die Mitglieder des Ethikrats dürfen nicht gleichzeitig Mitglieder der Verwaltung sein.				 		
+2. Der Ethikrat konstituiert sich selbst. Er bezeichnet seine/n Präsident\*in.
+					
+### Art. 25 – Amtszeit
+1. Die reguläre Amtszeit eines Mitglieds des Datenethik-Rats beträgt 2 Jahre. Die Wiederwahl ist zulässig.				 							
+2. Die maximale Amtszeit eines Mitgliedes des Datenethik-Rats beträgt 12 Jahre. Die Wiederwahl ist zulässig, jedoch frühestens 2 Jahre nach Rücktritt. 
+
+### Art. 26 – Aufgaben und Befugnisse					 		
+1. Der Ethikrat hat die Aufgabe, die ethische Qualität der Dienstleistungen und Forschungsprojekte zu prüfen und aufgrund der erfolgten Prüfung der Verwaltung Empfehlungen zu geben.				 					
+2. Der Ethikrat hat die Befugnis, eine ausserordentliche Generalversammlung einzuberufen.
+
+### Art. 27 – Sitzungen und Traktandierung		
+1. Ordentliche Sitzungen des Ethikrats werden durch den Ethikrat selbst oder durch die Verwaltung einberufen, spätestens zehn Tage vor dem Sitzungstermin. Beschlüsse des Ethikrats müssen der Verwaltung innert zehn Tagen mitgeteilt werden.
+			
+2. Ausserordentliche Sitzungen können von mindestens zwei Mitgliedern des Ethikrats einberufen werden. Sie müssen innert acht Wochen nach Eingang des Einberufungsbegehrens stattfinden. Ratsmitglieder, welche die Sitzung einberufen, müssen in schriftlicher bzw. elektronischer Form die Einberufung begründen und spezifische Traktanden nennen.
+				
+3. Die Einberufung kann per E-Mail erfolgen. Sitzungen können als Präsenzversammlung, telefonisch oder als Videokonferenz abgehalten werden.	
+        
+### Art. 28 – Beschlussfassung						 							
+1. Die Mitglieder des Ethikrats sollen Einstimmigkeit anstreben und mit qualifizierter Mehrheit von 67% abstimmen, wenn Einstimmigkeit nicht erreicht werden kann. Beschlüsse zur Erfüllung der Aufgaben und Befugnisse gemäss Art. 26 müssen klar begründet werden. Wenn Beschlüsse nicht einstimmig erreicht werden, sollten sowohl Mehrheits- wie Minderheitsmeinungen dargestellt werden.	
+			 							
+2. Beschlüsse können ohne Durchführung einer Sitzung auch auf dem Wege der schriftlichen Zustimmung (Zirkularbeschluss) zu einem Antrag gefasst werden, sofern nicht ein Mitglied die mündliche Beratung verlangt. Zirkularbeschlüsse können auch per E-Mail, welche über eine qualifizierte elektronische Signatur im Sinne von Art. 14 Abs. 2bis OR verfügt, gefasst werden.
 
 
+## D. Revisionsstelle		
 
+Auf eine Revision wird im ersten Jahr und bis zu einem Genossenschaftskapital von mind. CHF 100’000  verzichtet. 
+
+
+### Art. 29 – Revisionsstelle		 							
+1. Die Generalversammlung wählt nach den Vorschriften des Revisionsaufsichtsgesetzes als Revisionsstelle einen zugelassenen Revisor. Die Unabhängigkeit der Revisionsstelle bestimmt sich nach Art. 906 OR Abs. 1 i.V.m. Art. 729 OR, ihre Aufgaben richten sich nach Art. 906 Abs. 1 OR i.V.m. Art. 729a ff. OR.
+
+2. Als Revisionsstelle können eine oder mehrere natürliche oder juristische Personen oder Personengesellschaften (Kollektiv- oder Kommanditgesellschaften) gewählt werden. Wenigstens ein Mitglied der Revisionsstelle muss seinen Wohnsitz, seinen Sitz oder eine eingetragene Zweigniederlassung in der Schweiz haben.
+
+3. Die Revisionsstelle wird für ein Geschäftsjahr gewählt. Ihr Amt endet mit der Abnahme der letzten Jahresrechnung. Eine Wiederwahl ist möglich. Sie kann jederzeit mit sofortiger Wirkung abberufen werden.
+
+## E. Die Arbeitsgruppen
+
+### Art. 30 – Arbeitsgruppen	
+1. Arbeitsgruppen bestehen aus drei bis sieben Mitgliedern, die von der Verwaltung zu bestimmten Themen wie beispielsweise Kommunikation, Fundraising etc. eingesetzt werden. Sind sie nicht mehr nötig, können sie von der Verwaltung aufgelöst werden.
+	
+2. Arbeitsgruppen konstituieren sich selbst. Sie bezeichnen ihre/n Präsident\*in.
+
+### Art. 31 – Amtszeit
+1. Die reguläre Amtszeit eines Mitglieds einer Arbeitsgruppe beträgt 2 Jahre – unter Vorbehalt der Auflösung durch die Verwaltung. Die Wiederwahl ist zulässig.				 				
+
+2. Die maximale Amtszeit eines Mitgliedes der Arbeitsgruppe beträgt 12 Jahre. Die Wiederwahl ist zulässig, jedoch frühestens 2 Jahre nach Rücktritt. 
+
+### Art. 32 – Aufgaben und Befugnisse					 		
+1. Arbeitsgruppen erbringen spezifische Dienstleistungen zu Themen für die sie eingesetzt wurden. Arbeitsgruppen konstituieren sich aus Mitgliedern mit dem relevanten Know-how oder – sofern nicht vorhanden – wird dieses aufgebaut. 	
+
+2. Arbeitsgruppen erstellen einen Vorschlag mit Zielen und Zeitplan, der von der Verwaltung genehmigt werden muss.
+		 					
+3. Arbeitsgruppen und Verwaltung gleichen sich periodisch ab.  
+
+### Art. 33 – Sitzungen 
+Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der Verwaltung vereinbarten Ziele und der Zeitplan.
+
+
+## V. Rechnungswesen
+### Art. 34 – Geschäftsjahr und Buchführung 							
+1. Die Verwaltung bestimmt den Anfang und das Ende des Geschäftsjahres.			 							
+2. Die Jahresrechnung, bestehend aus Erfolgsrechnung, Bilanz und Anhang, ist gemäss den Vorschriften des Schweizerischen Obligationenrechts, insbesondere der Art. 957 ff. OR sowie nach den Grundsätzen der ordnungsgemässen Rechnungslegung aufzustellen.
+
+## VI. Auflösung und Liquidation	
+		
+### Art. 35 Auflösung und Liquidation				
+1. Für die Auflösung der Genossenschaft oder Beschlüsse, welche einer solchen gleichkommen, bedarf es einer qualifizierten Mehrheit von 67% der abgegebenen Stimmen. 
+
+2. Das Vermögen der aufgelösten Genossenschaft fällt nach Tilgung ihrer Schulden an. Das Vermögen muss an eine andere gemeinnützige Institution mit ähnlicher Zwecksetzung fallen.				 							
+3. Die Genossenschaftsmitglieder haben keine Ansprüche auf die Vermögenswerte der Genossenschaft.					 							
+4. Alle Daten der Nutzer\*innen werden von der POSMO-Plattform gelöscht. Die Nutzer\*innen werden eingeladen, ihr Recht auf Datenexport gemäss Art. 4 innert nützlicher Frist wahrzunehmen.			
+
+
+## VII. Benachrichtigungen		
+	
+### Art. 36 – Mitteilungen und Bekanntmachungen			 				
+1. Mitteilungen an die Genossenschafter erfolgen per Brief (ohne Einschreiben) oder E-Mail, jeweils an die letzte bekannte Adresse.	
+				 			
+2. Publikationsorgan der Genossenschaft ist das Schweizerische Handelsamtsblatt.
+                             
