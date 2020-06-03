@@ -3,13 +3,29 @@
 
 Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
 Sende ein E-Mail an **verwaltung at posmo.coop**.                     
-                  
-                               
-CHE-347.639.211                          
-Genossenschaft Posmo Schweiz                    
-Am Wasser 59             
-8049 Zürich             
+                                
              
+   
+              
+## Adresse                               
+Genossenschaft Posmo Schweiz                    
+Am Wasser 59              
+8049 Zürich              
+
+## Bankverbindung
+IBAN: CH61 0839 0037 2002 1000 3
+          
+Alternative Bank Schweiz       
+Amthausquai 21      
+Postfach        
+4601 Olten          
+          
+BIC (SWIFT): ABSOCH22XXX       
+Bankclearing (IID): 8390          
+
+## Unternehmens-Identifikationsnummer (UID)
+CHE-347.639.211             
+
 ---- 
                                   
 # Statuten der Genossenschaft Posmo Schweiz 
