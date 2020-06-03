@@ -3,11 +3,12 @@
 
 Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
 Sende ein E-Mail an **verwaltung at posmo.coop**.                     
-                              
-CHE-347.639.211           
-Genossenschaft Posmo Schweiz            
-Am Wasser 59
-8049 Zürich 
+                  
+                               
+CHE-347.639.211                          
+Genossenschaft Posmo Schweiz                    
+Am Wasser 59             
+8049 Zürich             
              
 ---- 
                                   
