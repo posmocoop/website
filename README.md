@@ -10,32 +10,32 @@ Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte P
 Gib uns Deine iPhone/Android-E-Mail an, und sage uns ob Du ein iPhone oder Android nutzt.
 Dann können wir Dich zu den Testern hinzufügen.              
 
-# Über uns
+## Über uns
 
-## Verwaltung
+### Verwaltung
 
-### Präsident
+#### Präsident
 Roger Fischer
 
-### Vize-Präsidentin
+#### Vize-Präsidentin
 Lea Strohm
 
-### Sekretär
+#### Sekretär
 Marius Zumwald
 
 
-## Ethikrat
+### Ethikrat
 
-### Vorsitz
+#### Vorsitz
 Alex Erath
 
-### Stellvertretung
+#### Stellvertretung
 Viktoria Molnar
 
-### Mitglied
+#### Mitglied
 Dominik Bucher
 
-## Arbeitsgruppen
+### Arbeitsgruppen
 - Kommunikation
 - Fundraising
 
