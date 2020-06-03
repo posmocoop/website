@@ -39,7 +39,7 @@ Die **Genossenschaft POSMO Schweiz** ist eine Genossenschaft gemäss den vorlieg
 
 ### Art. 2 – Zweck
 
-Eine Plattform für Mobilitätsdaten aufzubauen und dabei die Genossenschafterinnen
+Eine Plattform für Mobilitätsdaten aufzubauen und dabei die Genossenschafter\*innen
 - zu schützen
 - zu verteidigen (ihre Rechte gegenüber allen Dritten)
 - finanziell zu beteiligen.
@@ -50,14 +50,13 @@ tl;dr
 1. Die Genossenschaft bezweckt in gemeinnütziger Weise,
     
 <ol type="a" start="a">       
-<li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;     
-	   </li>           
+<li>eine sichere IT-Plattform ("POSMO-Plattform") zur Speicherung, zur Verwaltung und zum Teilen personenbezogener Daten jeglicher Art, insbesondere Mobilitätsdaten, zu betreiben und externen Dienstleistern zur Verfügung zu stellen;</li>           
                      			 	       				
-<li>die POSMO-Plattform natürlichen Personen (Genossenschafter*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzerinnen" (User) partizipieren;</li> 
+<li>die POSMO-Plattform natürlichen Personen (Genossenschafter\*innen und Dritten) zur Verfügung zu stellen, die an der Plattform als "Nutzer\*innen" (User) partizipieren;</li> 
                        		 							 
-<li>unter den Nutzerinnen breite Genossenschaftsmitgliedschaft zu fördern, und es ihnen als Genossenschaftsmitglieder zu ermöglichen, gemeinschaftliche Interessen wahrzunehmen;</li>  				 		        
+<li>unter den Nutzer\*innen breite Genossenschaftsmitgliedschaft zu fördern, und es ihnen als Genossenschaftsmitgliedern zu ermöglichen, gemeinschaftliche Interessen wahrzunehmen;</li>  				 		        
 	          					
-<li>die kollektiven Interessen der Nutzerinnen wahrzunehmen, indem ihre personenbezogenen Daten mit ihrer Einwilligung als gemeinsame Ressource genutzt werden. Dies geschieht, indem eine IT-Infrastruktur aufgebaut wird, die es den Nutzerinnen ermöglicht, Anfragen Dritter zur Analyse ihrer personenbezogenen Daten zu akzeptieren und eine ausdrückliche und informierte Einwilligung zur Sekundärnutzung ihrer personenbezogenen Daten durch Dritte zu erteilen, resultierend in einer wirtschaftlichen Vergütung für die Genossenschaft;</li> 
+<li>die kollektiven Interessen der Nutzer\*innen wahrzunehmen, indem ihre personenbezogenen Daten mit ihrer Einwilligung als gemeinsame Ressource genutzt werden. Dies geschieht, indem eine IT-Infrastruktur aufgebaut wird, die es den Nutzer\*innen ermöglicht, Anfragen Dritter zur Analyse ihrer personenbezogenen Daten zu akzeptieren und eine ausdrückliche und informierte Einwilligung zur Sekundärnutzung ihrer personenbezogenen Daten durch Dritte zu erteilen, resultierend in einer wirtschaftlichen Vergütung für die Genossenschaft;</li> 
  	      										
 <li>mit der POSMO-Plattform die Entstehung eines innovativen Ökosystems zu fördern, in dem Dritte Dienstleistungen anbieten können, die auf den auf der Plattform gehosteten Daten basieren;</li> 
  	        										
@@ -65,7 +64,7 @@ tl;dr
  											
 <li>die aus der Sekundärnutzung der personenbezogenen Daten gewonnenen wissenschaftlichen Resultate und das aus der Sekundärnutzung der personenbezogenen Daten resultierende Einkommen im Rahmen der obengenannten Zwecke zu nutzen.</li> 
 
-<li>im Notfall als Daten-Refugium zu fungieren, wenn andere Genossenschaften oder Nutzerinnen attackiert oder kompromittiert werden.</li> 
+<li>im Notfall als Daten-Refugium zu fungieren, wenn andere Genossenschaften oder Nutzer\*innen attackiert oder kompromittiert werden.</li> 
 </ol>
  
                   
@@ -442,7 +441,7 @@ Die Arbeitsgruppen organisieren sich selbst. Grundsätzlich gelten die, mit der 
 
 ## VI. Auflösung und Liquidation	
 		
-### Art. 35 Auflösung und Liquidation				
+### Art. 35 – Auflösung und Liquidation				
 1. Für die Auflösung der Genossenschaft oder Beschlüsse, welche einer solchen gleichkommen, bedarf es einer qualifizierten Mehrheit von 67% der abgegebenen Stimmen. 
 
 2. Das Vermögen der aufgelösten Genossenschaft fällt nach Tilgung ihrer Schulden an. Das Vermögen muss an eine andere gemeinnützige Institution mit ähnlicher Zwecksetzung fallen.				 							
