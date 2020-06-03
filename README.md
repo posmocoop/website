@@ -1,13 +1,16 @@
-## Genossenschaft POSMO Schweiz
+   
+# Werde Teil der Bewegung für Datensouveränität!
 
-Werde Genossenschafter\*in bei POSMO Schweiz.       
-Sende ein E-Mail an **verwaltung at posmo.coop**.
-
-----
+Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
+Sende ein E-Mail an **verwaltung at posmo.coop**.                     
+                              
+CHE-347.639.211           
 Genossenschaft Posmo Schweiz            
-CHE-347.639.211                 
-    
-                 
+Am Wasser 59
+8049 Zürich 
+             
+---- 
+                                  
 # Statuten der Genossenschaft Posmo Schweiz 
 mit Sitz in Zürich
 
