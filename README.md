@@ -12,7 +12,7 @@ Dann können wir Dich zu den Testern hinzufügen.
 
 [Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):             
                        
-<img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83683080-1a909c00-a5e5-11ea-9f0c-4148e91a4289.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83682680-8b838400-a5e4-11ea-89cb-d3fc5e6431a6.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83682684-8de5de00-a5e4-11ea-9ebd-bac356567cce.png" alt="Posmo One" width="200"/>         
+<img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="250"/>  <img src="https://user-images.githubusercontent.com/7697124/83683080-1a909c00-a5e5-11ea-9f0c-4148e91a4289.png" alt="Posmo One" width="250"/>  <img src="https://user-images.githubusercontent.com/7697124/83682680-8b838400-a5e4-11ea-89cb-d3fc5e6431a6.png" alt="Posmo One" width="250"/>  <img src="https://user-images.githubusercontent.com/7697124/83682684-8de5de00-a5e4-11ea-9ebd-bac356567cce.png" alt="Posmo One" width="250"/>         
 
 ## Über uns
 
