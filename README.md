@@ -1,7 +1,7 @@
    
 # Werde Teil der Bewegung für Datensouveränität!
 
-## Werde Genossenschafter\in
+## Werde Genossenschafter\*in
 Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".
                                    
@@ -10,7 +10,37 @@ Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte P
 Gib uns Deine iPhone/Android-E-Mail an, und sage uns ob Du ein iPhone oder Android nutzt.
 Dann können wir Dich zu den Testern hinzufügen.              
 
-              
+# Über uns
+
+## Verwaltung
+
+### Präsident
+Roger Fischer
+
+### Vize-Präsidentin
+Lea Strohm
+
+### Sekretär
+Marius Zumwald
+
+
+## Ethikrat
+
+### Vorsitz
+Alex Erath
+
+### Stellvertretung
+Viktoria Molnar
+
+### Mitglied
+Dominik Bucher
+
+## Arbeitsgruppen
+- Kommunikation
+- Fundraising
+
+-----              
+
 ### Adresse                               
 Genossenschaft Posmo Schweiz                    
 Am Wasser 59              
@@ -30,43 +60,6 @@ Bankclearing (IID): 8390
 ### Unternehmens-Identifikationsnummer (UID)
 CHE-347.639.211             
                                  
----- 
-
-# Organe
-
-A. Generalversammlung          
-B. Verwaltung               
-C. Ethikrat                
-D. Revision                  
-E. Arbeitsgruppen               
-
-
-## B. Verwaltung
-
-### Präsident
-Roger Fischer
-
-### Vize-Präsidentin
-Lea Strohm
-
-### Sekretär
-Marius Zumwald
-
-
-## C. Ethikrat
-
-### Vorsitz
-Alex Erath
-
-### Stellvertretung
-Viktoria Molnar
-
-### Mitglied
-Dominik Bucher
-
-## E. Arbeitsgruppen
-- Kommunikation
-- Fundraising
 
 ----
                                                               
