@@ -315,7 +315,7 @@ Mitglieder im Sinne von [Art. 880 OR](https://www.admin.ch/opc/de/classified-com
           
 ...              
                               
-Die vollständigen Statuten findet man [hier](https://github.com/posmocoop/general/edit/master/statutes.md). 
+Die vollständigen Statuten findet man [hier](https://github.com/posmocoop/general/blob/master/statutes.md). 
 
 
 
