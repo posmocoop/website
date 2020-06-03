@@ -2,17 +2,18 @@
 # Werde Teil der Bewegung für Datensouveränität!
 
 Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
-Sende ein E-Mail an **verwaltung at posmo.coop**.                     
-                                
-             
-   
+Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".
+                                   
+                                           
+                         
               
-## Adresse                               
+              
+### Adresse                               
 Genossenschaft Posmo Schweiz                    
 Am Wasser 59              
 8049 Zürich              
 
-## Bankverbindung
+### Bankverbindung
 IBAN: CH61 0839 0037 2002 1000 3
           
 Alternative Bank Schweiz       
@@ -23,11 +24,11 @@ Postfach
 BIC (SWIFT): ABSOCH22XXX       
 Bankclearing (IID): 8390          
 
-## Unternehmens-Identifikationsnummer (UID)
+### Unternehmens-Identifikationsnummer (UID)
 CHE-347.639.211             
-
+                                 
 ---- 
-                                  
+                                                              
 # Statuten der Genossenschaft Posmo Schweiz 
 mit Sitz in Zürich
 
