@@ -8,7 +8,9 @@ Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte G
 ## Teste Posmo One, die Tracking App 
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Posmo One testen".                         
 Gib uns Deine iPhone/Android-E-Mail an, und sage uns ob Du ein iPhone oder Android nutzt.
-Dann können wir Dich zu den Testern hinzufügen.    
+Dann können wir Dich zu den Testern hinzufügen.   
+
+Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenschaft verwaltet. Die Technologie dazu kommt von [Datamap](https://www.datamap.io).  
 
 [Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):             
                        
@@ -16,7 +18,7 @@ Dann können wir Dich zu den Testern hinzufügen.
            
 [Posmo One on the Web](https://posmo.datamap.io/posmo-one)       
                
-<img src="https://user-images.githubusercontent.com/7697124/83684540-7cea9c00-a5e7-11ea-9129-8b5a26d8cb02.png" alt="Posmo One" width="803"/>                    
+<img src="https://user-images.githubusercontent.com/7697124/83684540-7cea9c00-a5e7-11ea-9129-8b5a26d8cb02.png" alt="Posmo One" width="810"/>                    
               
 ## Über uns
 
