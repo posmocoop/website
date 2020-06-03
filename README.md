@@ -13,27 +13,10 @@ Dann können wir Dich zu den Testern hinzufügen.
 ## Über uns
 
 ### Verwaltung
-
-#### Präsident
-Roger Fischer
-
-#### Vize-Präsidentin
-Lea Strohm
-
-#### Sekretär
-Marius Zumwald
-
+Roger Fischer, Lea Strohm, Marius Zumwald
 
 ### Ethikrat
-
-#### Vorsitz
-Alex Erath
-
-#### Stellvertretung
-Viktoria Molnar
-
-#### Mitglied
-Dominik Bucher
+Alex Erath, Viktoria Molnar, Dominik Bucher
 
 ### Arbeitsgruppen
 - Kommunikation
