@@ -10,7 +10,11 @@ Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte P
 Gib uns Deine iPhone/Android-E-Mail an, und sage uns ob Du ein iPhone oder Android nutzt.
 Dann können wir Dich zu den Testern hinzufügen.    
 
-[Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):
+[Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):             
+                       
+<img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="200"/> 
+<img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="200"/> 
+<img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="200"/> 
 <img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="200"/>         
 
 ## Über uns
