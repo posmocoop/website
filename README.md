@@ -56,7 +56,7 @@ tl;dr
                        		 							 
 <li>unter den Nutzer*innen breite Genossenschaftsmitgliedschaft zu fördern, und es ihnen als Genossenschaftsmitgliedern zu ermöglichen, gemeinschaftliche Interessen wahrzunehmen;</li>  				 		        
 	          					
-<li>die kollektiven Interessen der Nutzer\*innen wahrzunehmen, indem ihre personenbezogenen Daten mit ihrer Einwilligung als gemeinsame Ressource genutzt werden. Dies geschieht, indem eine IT-Infrastruktur aufgebaut wird, die es den Nutzer*innen ermöglicht, Anfragen Dritter zur Analyse ihrer personenbezogenen Daten zu akzeptieren und eine ausdrückliche und informierte Einwilligung zur Sekundärnutzung ihrer personenbezogenen Daten durch Dritte zu erteilen, resultierend in einer wirtschaftlichen Vergütung für die Genossenschaft;</li> 
+<li>die kollektiven Interessen der Nutzer*innen wahrzunehmen, indem ihre personenbezogenen Daten mit ihrer Einwilligung als gemeinsame Ressource genutzt werden. Dies geschieht, indem eine IT-Infrastruktur aufgebaut wird, die es den Nutzer*innen ermöglicht, Anfragen Dritter zur Analyse ihrer personenbezogenen Daten zu akzeptieren und eine ausdrückliche und informierte Einwilligung zur Sekundärnutzung ihrer personenbezogenen Daten durch Dritte zu erteilen, resultierend in einer wirtschaftlichen Vergütung für die Genossenschaft;</li> 
  	      										
 <li>mit der POSMO-Plattform die Entstehung eines innovativen Ökosystems zu fördern, in dem Dritte Dienstleistungen anbieten können, die auf den auf der Plattform gehosteten Daten basieren;</li> 
  	        										
