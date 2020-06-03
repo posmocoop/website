@@ -1,12 +1,15 @@
    
 # Werde Teil der Bewegung für Datensouveränität!
 
+## Werde Genossenschafter\in
 Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".
                                    
-                                           
-                         
-              
+## Teste Posmo One, die Tracking App                                          
+Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Posmo One testen".                         
+Gib uns Deine iPhone/Android-E-Mail an, und sage uns ob Du ein iPhone oder Android nutzt.
+Dann können wir Dich zu den Testern hinzufügen.              
+
               
 ### Adresse                               
 Genossenschaft Posmo Schweiz                    
