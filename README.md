@@ -57,7 +57,7 @@ Alex Erath, Viktoria Molnar, Dominik Bucher
 ### Arbeitsgruppen
 - Kommunikation
 - Fundraising
-- Spatial Future
+- (Spatial Future) - Entscheidung folgt am Montag
 
 -----              
 
