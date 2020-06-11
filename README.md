@@ -1,6 +1,10 @@
    
 # Werde Teil der Bewegung für Datensouveränität!
 
+## Nächstes Genossenschaftsmeeting
+Montag 15.06 - 19-20.30 Uhr  
+Ort: Büro ethix - Zweierstrasse 100, 8003 Zürich + via Conf Call (Link folgt)
+
 ## Werde Genossenschafter\*in
 Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".
@@ -21,12 +25,10 @@ Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenscha
 <img src="https://user-images.githubusercontent.com/7697124/83684540-7cea9c00-a5e7-11ea-9129-8b5a26d8cb02.png" alt="Posmo One" width="810"/>                    
               
 
-## Nächstes Genossenschaftsmeeting
-Montag 15.06 - 19-20.30 Uhr  
-Ort: Büro ethix - Zweierstrasse 100, 8003 Zürich + via Conf Call (Link folgt)
-
-
 ## Über uns
+
+### Gründer\*innen
+Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
 
 ### Verwaltung
 Roger Fischer, Lea Strohm, Marius Zumwald
@@ -37,6 +39,7 @@ Alex Erath, Viktoria Molnar, Dominik Bucher
 ### Arbeitsgruppen
 - Kommunikation
 - Fundraising
+- Spatial Future
 
 -----              
 
