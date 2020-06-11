@@ -4,7 +4,8 @@
 ## Nächstes Genossenschaftsmeeting
 Montag, 15.06: 19-20.30 Uhr  
 Ort: Büro ethix - Zweierstrasse 100, 8003 Zürich + via Conf Call (Link folgt)
-
+[Traktanden](https://github.com/posmocoop/general/blob/master/meetings.md#sitzung-5-montag-1506-19-2030-uhr)        
+       
 Nur für Genossenschaftsmitglieder! Jetzt Genossenschafter\*in werden!
 
 ## Werde Genossenschafter\*in
