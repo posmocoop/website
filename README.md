@@ -25,7 +25,23 @@ Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenscha
 [Posmo One on the Web](https://posmo.datamap.io/posmo-one)       
                
 <img src="https://user-images.githubusercontent.com/7697124/83684540-7cea9c00-a5e7-11ea-9129-8b5a26d8cb02.png" alt="Posmo One" width="810"/>                    
-              
+
+## Was ist Posmo?
+Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von Maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
+
+## Wozu Posmo?
+Wenn wir Mobilität besser verstehen und für alle transparenter machen, können wir einen der der wichtigsten Treiber des Klimawandels beeinflussen. Daten über individuelles Mobilitätsverhalten liegen zurzeit jedoch in den Händen einiger weniger privaten Akteure, die diese Daten nicht mit der Öffentlichkeit teilen.  
+
+## Wie funktioniert Posmo?
+Posmo sammelt GPS- und andere Sensor-Daten über die Posmo One Mobile App. Sie interpretiert automatisch die Mobilitätsform und Streckensegmente des Nutzenden in Echtzeit mithilfe Maschinellen Lernens. Die gesammelten Daten können als Entscheidungsgrundlage für die Gestaltung einer nachhaltigeren Mobilität benutzt werden. Die Nutzer\*innen der Apps haben jederzeit vollste Kontrolle über Ihre Daten.
+
+## Posmo.coop - eine Datengenossenschaft
+Als Treuhänderin der Daten, die über die Posmo One (und Posmo B App) gesammelt werden, tritt die Genossenschaft Posmo Schweiz auf. Mitglieder der Genossenschaft entscheiden über die Weitergabe ihrer Daten an Drittparteien. Unter den Nutzer\*innen der Posmo One App wird breite Genossenschaftsmitgliedschaft angestrebt.  
+
+## Wieso soll ich Genossenschafter\*in werden?
+Unsere Mobilitätsdaten geben Aufschluss über unser Leben. Niemand soll ohne unsere Kontrolle davon profitieren können. Als Genossenschafter\*in bestimmst du, wie deine Daten genutzt werden und wem sie im positiven Sinne (z.B. für klimaneutrale Stadtplanung) zur Verfügung gestellt werden sollen. 
+
+
 
 ## Über uns
 
