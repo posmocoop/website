@@ -1,7 +1,13 @@
    
 # Werde Teil der Bewegung für Datensouveränität!
 
-## Nächstes Genossenschaftsmeeting
+## Nächste Arbeitsgruppenmeetings
+- Kommunikation (Lea)
+- Fundraising (Viktoria)
+- App Workshop (Roger) - [Eintragen](https://docs.google.com/spreadsheets/d/1OLVoeJ6WCUqO0AGECCb3n_yKPUD7OLEKiMknwuVcLxw/edit?usp=sharing)
+- Spatial Future (Marius)
+
+## Letztes Genossenschaftsmeeting
 Montag, 15.06: 19-20.30 Uhr  
 Ort: Büro ethix - Zweierstrasse 100, 8003 Zürich + via Conf Call (Link folgt)              
 [Traktanden](https://github.com/posmocoop/general/blob/master/meetings.md#sitzung-5-montag-1506-19-2030-uhr)        
