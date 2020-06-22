@@ -5,7 +5,7 @@
 - Kommunikation (Lea)
 - Fundraising (Viktoria)
 - App Workshop (Roger) - [Eintragen](https://docs.google.com/spreadsheets/d/1OLVoeJ6WCUqO0AGECCb3n_yKPUD7OLEKiMknwuVcLxw/edit?usp=sharing)
-- Spatial Future (Marius)
+- Spatial Future (Marius) - [Eintragen]( https://doodle.com/poll/2vt8g2fcfpr5uknm)
 
 ## Letztes Genossenschaftsmeeting
 Montag, 15.06: 19-20.30 Uhr  
