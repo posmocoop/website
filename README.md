@@ -12,11 +12,14 @@ Montag, 15.06: 19-20.30 Uhr
 Ort: Büro ethix - Zweierstrasse 100, 8003 Zürich + via Conf Call (Link folgt)              
 [Traktanden](https://github.com/posmocoop/general/blob/master/meetings.md#sitzung-5-montag-1506-19-2030-uhr)        
        
-Nur für Genossenschaftsmitglieder! Jetzt Genossenschafter\*in werden!
+Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
 
 ## Werde Genossenschafter\*in
-Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.           
-Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".
+Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.         
+[Hier findest Du alle relevanten Informationen.](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)        
+
+Hast Du Fragen dazu?                 
+Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".        
                                    
 ## Teste Posmo One, die Tracking App 
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Posmo One testen".                         
