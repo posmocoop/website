@@ -5,7 +5,7 @@
 - Kommunikation (Lea) - Freitag, 26. Juni 2020, 12:00 CEST (Online)
 - Spatial Future (Marius) - 2. Juli 2020, 19:00-20:30 CEST (Online / Oder Mix Online+Offline)
 - Fundraising (Viktoria)
-- App Workshop (Roger) - Freitag, 8. Juli 2020, 19:00-20:30 CEST (Online)
+- App Workshop (Roger) - Mittwoch, 8. Juli 2020, 19:00-20:30 CEST (Online)
 
 Mehr Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDXS9/thread/C011HAMDXS9-1593002688.001900)
 
