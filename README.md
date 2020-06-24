@@ -2,10 +2,13 @@
 # Werde Teil der Bewegung für Datensouveränität!
 
 ## Nächste Arbeitsgruppenmeetings
-- Kommunikation (Lea)
+- Kommunikation (Lea) - Friday, 26. Juni 2020, 12:00 CEST
+- Spatial Future (Marius) - 2. Juli 2020, 19:00-20:30 CEST 
 - Fundraising (Viktoria)
 - App Workshop (Roger) - [Eintragen](https://docs.google.com/spreadsheets/d/1OLVoeJ6WCUqO0AGECCb3n_yKPUD7OLEKiMknwuVcLxw/edit?usp=sharing)
-- Spatial Future (Marius) - [Eintragen]( https://doodle.com/poll/2vt8g2fcfpr5uknm)
+
+
+Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
 
 ## Letztes Genossenschaftsmeeting
 Montag, 15.06: 19-20.30 Uhr  
