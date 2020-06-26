@@ -1,5 +1,20 @@
    
-# Werde Teil der Bewegung für Datensouveränität!
+# Mobility of the people, by the people, for the people. 
+
+## Was ist Posmo?
+Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von Maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
+
+## Wozu Posmo?
+Wenn wir Mobilität besser verstehen und für alle transparenter machen, können wir einen der der wichtigsten Treiber des Klimawandels beeinflussen. Daten über individuelles Mobilitätsverhalten liegen zurzeit jedoch in den Händen einiger weniger privaten Akteure, die diese Daten nicht mit der Öffentlichkeit teilen.  
+
+## Posmo.coop - eine Datengenossenschaft
+Als Treuhänderin der Daten, die über die Posmo One (und Posmo B App) gesammelt werden, tritt die Genossenschaft Posmo Schweiz auf. Mitglieder der Genossenschaft entscheiden über die Weitergabe ihrer Daten an Drittparteien. Unter den Nutzer\*innen der Posmo One App wird breite Genossenschaftsmitgliedschaft angestrebt.  
+
+## Wie funktioniert Posmo?
+Die Posmo One App sammelt GPS- und andere Sensor-Daten über die Posmo One Mobile App. Sie interpretiert automatisch die Mobilitätsform und Streckensegmente des Nutzenden in Echtzeit mithilfe Maschinellen Lernens. Die gesammelten Daten können als Entscheidungsgrundlage für die Gestaltung einer nachhaltigeren Mobilität benutzt werden. Die Nutzer\*innen der Apps haben jederzeit vollste Kontrolle über Ihre Daten.
+
+## Wieso soll ich Genossenschafter\*in werden?
+Unsere Mobilitätsdaten geben Aufschluss über unser Leben. Niemand soll ohne unsere Kontrolle davon profitieren können. Als Genossenschafter\*in bestimmst du, wie deine Daten genutzt werden und wem sie im positiven Sinne (z.B. für klimaneutrale Stadtplanung) zur Verfügung gestellt werden sollen. 
 
 ## Nächste Arbeitsgruppenmeetings
 - Kommunikation (Lea) - Freitag, 26. Juni 2020, 12:00 CEST (Online)
@@ -12,11 +27,8 @@ Mehr Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011
 Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
 
 ## Letztes Genossenschaftsmeeting
-Montag, 15.06: 19-20.30 Uhr  
-Ort: Büro ethix - Zweierstrasse 100, 8003 Zürich + via Conf Call (Link folgt)              
+Montag, 15.06: 19-20.30 Uhr             
 [Traktanden](https://github.com/posmocoop/general/blob/master/meetings.md#sitzung-5-montag-1506-19-2030-uhr)        
-       
-Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
 
 ## Werde Genossenschafter\*in
 Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.         
@@ -24,14 +36,7 @@ Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.
 
 Hast Du Fragen dazu?                 
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".        
-                                   
-## Teste Posmo One, die Tracking App 
-Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Posmo One testen".                         
-Gib uns Deine iPhone/Android-E-Mail an, und sage uns ob Du ein iPhone oder Android nutzt.
-Dann können wir Dich zu den Testern hinzufügen.   
-
-Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenschaft verwaltet. Die Technologie dazu kommt von [Datamap](https://www.datamap.io).  
-
+                                    
 [Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):             
                        
 <img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83683080-1a909c00-a5e5-11ea-9f0c-4148e91a4289.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83682680-8b838400-a5e4-11ea-89cb-d3fc5e6431a6.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83682684-8de5de00-a5e4-11ea-9ebd-bac356567cce.png" alt="Posmo One" width="200"/>   
@@ -40,22 +45,12 @@ Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenscha
                
 <img src="https://user-images.githubusercontent.com/7697124/83684540-7cea9c00-a5e7-11ea-9129-8b5a26d8cb02.png" alt="Posmo One" width="810"/>                    
 
-## Was ist Posmo?
-Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von Maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
+## Teste Posmo One, die Tracking App 
+Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Posmo One testen".                         
+Gib uns Deine iPhone/Android-E-Mail an, und sage uns ob Du ein iPhone oder Android nutzt.
+Dann können wir Dich zu den Testern hinzufügen.   
 
-## Wozu Posmo?
-Wenn wir Mobilität besser verstehen und für alle transparenter machen, können wir einen der der wichtigsten Treiber des Klimawandels beeinflussen. Daten über individuelles Mobilitätsverhalten liegen zurzeit jedoch in den Händen einiger weniger privaten Akteure, die diese Daten nicht mit der Öffentlichkeit teilen.  
-
-## Wie funktioniert Posmo?
-Posmo sammelt GPS- und andere Sensor-Daten über die Posmo One Mobile App. Sie interpretiert automatisch die Mobilitätsform und Streckensegmente des Nutzenden in Echtzeit mithilfe Maschinellen Lernens. Die gesammelten Daten können als Entscheidungsgrundlage für die Gestaltung einer nachhaltigeren Mobilität benutzt werden. Die Nutzer\*innen der Apps haben jederzeit vollste Kontrolle über Ihre Daten.
-
-## Posmo.coop - eine Datengenossenschaft
-Als Treuhänderin der Daten, die über die Posmo One (und Posmo B App) gesammelt werden, tritt die Genossenschaft Posmo Schweiz auf. Mitglieder der Genossenschaft entscheiden über die Weitergabe ihrer Daten an Drittparteien. Unter den Nutzer\*innen der Posmo One App wird breite Genossenschaftsmitgliedschaft angestrebt.  
-
-## Wieso soll ich Genossenschafter\*in werden?
-Unsere Mobilitätsdaten geben Aufschluss über unser Leben. Niemand soll ohne unsere Kontrolle davon profitieren können. Als Genossenschafter\*in bestimmst du, wie deine Daten genutzt werden und wem sie im positiven Sinne (z.B. für klimaneutrale Stadtplanung) zur Verfügung gestellt werden sollen. 
-
-
+Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenschaft verwaltet. Die Technologie dazu kommt von [Datamap](https://www.datamap.io). 
 
 ## Über uns
 
