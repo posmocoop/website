@@ -16,8 +16,14 @@ Die Posmo One App sammelt GPS- und andere Sensor-Daten über die Posmo One Mobil
 ## Wieso soll ich Genossenschafter\*in werden?
 Unsere Mobilitätsdaten geben Aufschluss über unser Leben. Niemand soll ohne unsere Kontrolle davon profitieren können. Als Genossenschafter\*in bestimmst du, wie deine Daten genutzt werden und wem sie im positiven Sinne (z.B. für klimaneutrale Stadtplanung) zur Verfügung gestellt werden sollen. 
 
+## Werde Genossenschafter\*in
+Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.         
+[Hier findest Du alle relevanten Informationen.](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)        
+
+Hast Du noch Fragen dazu?                 
+Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden". 
+
 ## Nächste Arbeitsgruppenmeetings
-- Kommunikation (Lea) - Freitag, 26. Juni 2020, 12:00 CEST (Online)
 - Spatial Future (Marius) - 2. Juli 2020, 19:00-20:30 CEST (Online / Oder Mix Online+Offline)
 - Fundraising (Viktoria)
 - App Workshop (Roger) - Mittwoch, 8. Juli 2020, 19:00-20:30 CEST (Online)
@@ -26,16 +32,11 @@ Mehr Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011
 
 Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
 
+
 ## Letztes Genossenschaftsmeeting
 Montag, 15.06: 19-20.30 Uhr             
 [Traktanden](https://github.com/posmocoop/general/blob/master/meetings.md#sitzung-5-montag-1506-19-2030-uhr)        
-
-## Werde Genossenschafter\*in
-Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.         
-[Hier findest Du alle relevanten Informationen.](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)        
-
-Hast Du Fragen dazu?                 
-Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden".        
+       
                                     
 [Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):             
                        
