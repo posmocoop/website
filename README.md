@@ -24,9 +24,8 @@ Hast Du noch Fragen dazu?
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden". 
 
 ## Nächste Arbeitsgruppenmeetings
-- Spatial Future (Marius) - 2. Juli 2020, 19:00-20:30 CEST (Online / Oder Mix Online+Offline)
-- Fundraising (Viktoria)
-- App Workshop (Roger) - Mittwoch, 8. Juli 2020, 19:00-20:30 CEST (Online)
+- Fundraising - Mittwoch, 14. Oktober 2020, 18:00-19:30 CEST (Online)
+- Spatial Future (Marius) - Mid-October (Online / Oder Mix Online+Offline)
 
 Mehr Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDXS9/thread/C011HAMDXS9-1593002688.001900)
 
