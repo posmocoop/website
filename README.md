@@ -23,11 +23,12 @@ Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.
 Hast Du noch Fragen dazu?                 
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden". 
 
-## Nächste Arbeitsgruppenmeetings
-- Fundraising - Mittwoch, 14. Oktober 2020, 18:00-19:30 CEST (Online)
-- Spatial Future (Marius) - Mid-October (Online / Oder Mix Online+Offline)
+## Nächste Meetings
+- VOBS - 17.März 2021, 14:00-15:30 CEST (Online)
+- Verwaltung - 19. März 2021, 11:00-12:00 CEST (Online)
 
-Mehr Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDXS9/thread/C011HAMDXS9-1593002688.001900)
+
+Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDXS9/thread/C011HAMDXS9-1593002688.001900)
 
 Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
 
