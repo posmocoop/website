@@ -23,8 +23,11 @@ Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.
 Hast Du noch Fragen dazu?                 
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden". 
 
-## Nächste Meetings
-- VOBS - 17.März 2021, 14:00-15:30 CEST (Online)
+## Nächstes Meeting
+- Verwaltung - 26. März 2021, 12:00-13:00 CEST (Online)
+
+## Letzte Meetings
+- VelObserver - 17.März 2021, 14:00-15:30 CEST (Online)
 - Verwaltung - 19. März 2021, 11:00-12:00 CEST (Online)
 
 
@@ -59,7 +62,7 @@ Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenscha
 Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
 
 ### Verwaltung
-Roger Fischer, Lea Strohm, Marius Zumwald
+Roger Fischer, Lea Strohm, Marius Zumwald, Thomas Hug, Roberta Fischli
 
 ### Ethikrat
 Alex Erath, Viktoria Molnar, Dominik Bucher
