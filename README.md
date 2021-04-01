@@ -23,11 +23,16 @@ Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.
 Hast Du noch Fragen dazu?                 
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden". 
 
+
+## Erste GV
+- 1. Generalversammlung: 26. Mai 2021 von 18:00-20:00 CEST (Online)
+
 ## Nächstes Meeting
-- Verwaltung - 26. März 2021, 12:00-13:00 CEST (Online)
+- VelObserver - Mittwoch, 7.April, 8:00-... CEST (Online)
 
 ## Letzte Meetings
 - VelObserver - 17.März 2021, 14:00-15:30 CEST (Online)
+- Verwaltung - 26. März 2021, 12:00-13:00 CEST (Online)
 - Verwaltung - 19. März 2021, 11:00-12:00 CEST (Online)
 
 
