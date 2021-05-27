@@ -1,6 +1,29 @@
    
 # Mobility of the people, by the people, for the people. 
 
+## Generalversammlung, 27. Mai 2021
+
+### Wahlresultate 
+
+### Verwaltung
+Neu Gewählt für 2 Jahre: 
+- Thomas Hug
+   
+Bisher: 
+- Lea Strohm  
+- Roger Fischer
+
+### Ethikrat mit AI&Data Oversight Commitee (AIDOC)
+Neu Gewählt für 2 Jahre: 
+- Roberta Fischli, Vorsitz
+- Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
+- Dorothea Bauer
+- Marcel Blattner (AIDOC)
+    
+Bisher:
+- Viktória Molnár 
+
+
 ## Was ist Posmo?
 Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von Maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
 
