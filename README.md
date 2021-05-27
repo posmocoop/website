@@ -6,7 +6,7 @@
 ### Wahlresultate 
 
 ### Verwaltung
-Neu Gewählt für 2 Jahre: 
+Neu gewählt für 2 Jahre: 
 - Thomas Hug
    
 Bisher: 
@@ -14,7 +14,7 @@ Bisher:
 - Roger Fischer
 
 ### Ethikrat mit AI&Data Oversight Committee (AIDOC)
-Neu Gewählt für 2 Jahre:   
+Neu gewählt für 2 Jahre:   
 - Roberta Fischli, Vorsitz
 - Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
 - Dorothea Baur
@@ -25,7 +25,7 @@ Bisher:
 
 
 ## Was ist Posmo?
-Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von Maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
+Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
 
 ## Wozu Posmo?
 Wenn wir Mobilität besser verstehen und für alle transparenter machen, können wir einen der der wichtigsten Treiber des Klimawandels beeinflussen. Daten über individuelles Mobilitätsverhalten liegen zurzeit jedoch in den Händen einiger weniger privaten Akteure, die diese Daten nicht mit der Öffentlichkeit teilen.  
