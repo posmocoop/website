@@ -13,7 +13,7 @@ Bisher:
 - Lea Strohm  
 - Roger Fischer
 
-### Ethikrat mit AI&Data Oversight Commitee (AIDOC)
+### Ethikrat mit AI&Data Oversight Committee (AIDOC)
 Neu Gewählt für 2 Jahre:   
 - Roberta Fischli, Vorsitz
 - Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
