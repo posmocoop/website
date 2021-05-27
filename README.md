@@ -1,7 +1,7 @@
    
 # Mobility of the people, by the people, for the people. 
 
-## Generalversammlung, 27. Mai 2021
+## Generalversammlung, 26. Mai 2021
 
 ### Wahlresultate 
 
@@ -14,7 +14,7 @@ Bisher:
 - Roger Fischer
 
 ### Ethikrat mit AI&Data Oversight Commitee (AIDOC)
-Neu Gewählt für 2 Jahre: 
+Neu Gewählt für 2 Jahre:   
 - Roberta Fischli, Vorsitz
 - Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
 - Dorothea Bauer
