@@ -17,7 +17,7 @@ Bisher:
 Neu Gewählt für 2 Jahre:   
 - Roberta Fischli, Vorsitz
 - Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
-- Dorothea Bauer
+- Dorothea Baur
 - Marcel Blattner (AIDOC)
     
 Bisher:
