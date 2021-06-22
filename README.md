@@ -47,16 +47,13 @@ Hast Du noch Fragen dazu?
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden". 
 
 
-## Erste GV
-- 1. Generalversammlung: 26. Mai 2021 von 18:00-20:00 CEST (Online)
-
 ## Nächstes Meeting
-- VelObserver - Mittwoch, 7.April, 8:00-... CEST (Online)
+- VelObserver - Dienstag, 22. Juni, 16:30-... CEST (Online)
 
 ## Letzte Meetings
-- VelObserver - 17.März 2021, 14:00-15:30 CEST (Online)
-- Verwaltung - 26. März 2021, 12:00-13:00 CEST (Online)
-- Verwaltung - 19. März 2021, 11:00-12:00 CEST (Online)
+- [VelObserver](https://www.velobserver.ch) - 18. Juni 2021, 9:00-10:00 CEST (Online)
+- Verwaltung - 18. Juni 2021, 14:00-15:00 CEST (Online)
+
 
 
 Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDXS9/thread/C011HAMDXS9-1593002688.001900)
