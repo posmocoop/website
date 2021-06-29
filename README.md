@@ -48,10 +48,10 @@ Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte G
 
 
 ## Nächstes Meeting
-- VelObserver - Dienstag, 22. Juni, 16:30-... CEST (Online)
+- Verwaltung zur Website - Dienstag, 29. Juni, 17:00-18:00 CEST (Online)
 
 ## Letzte Meetings
-- [VelObserver](https://www.velobserver.ch) - 18. Juni 2021, 9:00-10:00 CEST (Online)
+- [VelObserver](https://www.velobserver.ch) - 22. Juni 2021, 16:30-17:30 CEST (Online)
 - Verwaltung - 18. Juni 2021, 14:00-15:00 CEST (Online)
 
 
