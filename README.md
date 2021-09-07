@@ -17,7 +17,7 @@ Die Posmo One App sammelt GPS- und andere Sensor-Daten über die Posmo One Mobil
 Unsere Mobilitätsdaten geben Aufschluss über unser Leben. Niemand soll ohne unsere Kontrolle davon profitieren können. Als Genossenschafter\*in bestimmst du, wie deine Daten genutzt werden und wem sie im positiven Sinne (z.B. für klimaneutrale Stadtplanung) zur Verfügung gestellt werden sollen. 
 
 ## Werde Genossenschafter\*in
-Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz.         
+Werde Genossenschafter\*in bei der Genossenschaft POSMO Schweiz. [34](https://github.com/posmocoop/general/blob/master/members.md) sind wir bereits!   
 [Hier findest Du alle relevanten Informationen.](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)        
 
 Hast Du noch Fragen dazu?                 
@@ -73,10 +73,10 @@ Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg L
 - Kommunikation
 - Fundraising
 - Spatial Future
-                   
+                            
 -----                     
                       
-<img src="https://raw.githubusercontent.com/posmocoop/website/master/foerderung.png" width="820" align="center" />              
+<img src="https://raw.githubusercontent.com/posmocoop/website/master/foerderung.png" width="830" align="center" />              
 
 -----              
 
