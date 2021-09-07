@@ -51,10 +51,6 @@ Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https:/
 
 ## Über uns
 
-### Gründer\*innen
-Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
-
-
 ### Verwaltung
 - Thomas Hug
 - Lea Strohm  
@@ -73,6 +69,11 @@ Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg L
 - Kommunikation
 - Fundraising
 - Spatial Future
+                       
+           
+### Gründer\*innen
+Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
+          
                             
 -----                     
                       
