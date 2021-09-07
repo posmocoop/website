@@ -1,29 +1,6 @@
    
 # Mobility of the people, by the people, for the people. 
 
-## Generalversammlung, 26. Mai 2021
-
-### Wahlresultate 
-
-### Verwaltung
-Neu gewählt für 2 Jahre: 
-- Thomas Hug
-   
-Bisher: 
-- Lea Strohm  
-- Roger Fischer
-
-### Ethikrat mit AI&Data Oversight Committee (AIDOC)
-Neu gewählt für 2 Jahre:   
-- Roberta Fischli, Vorsitz
-- Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
-- Dorothea Baur
-- Marcel Blattner (AIDOC)
-    
-Bisher:
-- Viktória Molnár 
-
-
 ## Was ist Posmo?
 Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
 
@@ -47,24 +24,9 @@ Hast Du noch Fragen dazu?
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Genossenschafter\*in werden". 
 
 
-## Nächstes Meeting
-- Verwaltung zum Thema Website - Dienstag, 29. Juni, 17:00-18:00 CEST (Online)
-
-## Letzte Meetings
-- [VelObserver](https://www.velobserver.ch) - 22. Juni 2021, 16:30-17:30 CEST (Online)
-- Verwaltung - 18. Juni 2021, 14:00-15:00 CEST (Online)
 
 
-
-Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDXS9/thread/C011HAMDXS9-1593002688.001900)
-
-Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
-
-
-## Letztes Genossenschaftsmeeting
-Montag, 15.06: 19-20.30 Uhr             
-[Traktanden](https://github.com/posmocoop/general/blob/master/meetings.md#sitzung-5-montag-1506-19-2030-uhr)        
-       
+             
                                     
 [Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):             
                        
@@ -81,18 +43,39 @@ Dann können wir Dich zu den Testern hinzufügen.
 
 Die Daten, die von Dir mit Posmo One erzeugt werden, werden von der Genossenschaft verwaltet. Die Technologie dazu kommt von [Datamap](https://www.datamap.io). 
 
+
+## Interner Austausch über Slack
+Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDXS9/thread/C011HAMDXS9-1593002688.001900)
+
+Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https://github.com/posmocoop/general/blob/master/i_want_to_be_a_coop_member.md)
+
 ## Über uns
 
 ### Gründer\*innen
 Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
 
-### Verwaltung
-Roger Fischer, Lea Strohm, Marius Zumwald, Thomas Hug, Roberta Fischli
 
-### Ethikrat
-Alex Erath, Viktoria Molnar, Dominik Bucher
+### Verwaltung
+Neu gewählt für 2 Jahre: 
+- Thomas Hug
+   
+Bisher: 
+- Lea Strohm  
+- Roger Fischer
+
+### Ethikrat mit AI&Data Oversight Committee (AIDOC)
+Neu gewählt für 2 Jahre:   
+- Roberta Fischli, Vorsitz
+- Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
+- Dorothea Baur
+- Marcel Blattner (AIDOC)
+    
+Bisher:
+- Viktória Molnár 
+
 
 ### Arbeitsgruppen
+- VelObserver
 - Kommunikation
 - Fundraising
 - Spatial Future
