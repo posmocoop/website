@@ -30,11 +30,11 @@ Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte G
                                     
 [Posmo One](https://play.google.com/store/apps/details?id=io.datamap.posmoone):             
                        
-<img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83683080-1a909c00-a5e5-11ea-9f0c-4148e91a4289.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83682680-8b838400-a5e4-11ea-89cb-d3fc5e6431a6.png" alt="Posmo One" width="200"/>  <img src="https://user-images.githubusercontent.com/7697124/83682684-8de5de00-a5e4-11ea-9ebd-bac356567cce.png" alt="Posmo One" width="200"/>   
+<img src="https://user-images.githubusercontent.com/7697124/83681986-8a9e2280-a5e3-11ea-8d9e-8e19a9b2c004.png" alt="Posmo One" width="207"/>  <img src="https://user-images.githubusercontent.com/7697124/83683080-1a909c00-a5e5-11ea-9f0c-4148e91a4289.png" alt="Posmo One" width="207"/>  <img src="https://user-images.githubusercontent.com/7697124/83682680-8b838400-a5e4-11ea-89cb-d3fc5e6431a6.png" alt="Posmo One" width="207"/>  <img src="https://user-images.githubusercontent.com/7697124/83682684-8de5de00-a5e4-11ea-9ebd-bac356567cce.png" alt="Posmo One" width="207"/>   
            
 [Posmo One on the Web](https://posmo.datamap.io/posmo-one)       
                
-<img src="https://user-images.githubusercontent.com/7697124/83684540-7cea9c00-a5e7-11ea-9129-8b5a26d8cb02.png" alt="Posmo One" width="810"/>                    
+<img src="https://user-images.githubusercontent.com/7697124/83684540-7cea9c00-a5e7-11ea-9129-8b5a26d8cb02.png" alt="Posmo One" width="830"/>                    
 
 ## Teste Posmo One, die Tracking App 
 Sende ein E-Mail an **verwaltung at posmo.coop**, mit dem Betreff "Ich möchte Posmo One testen".                         
