@@ -76,7 +76,7 @@ Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg L
                    
 -----                     
                       
-<img src="https://raw.githubusercontent.com/posmocoop/website/master/foerderung.png" width="800" align="center" />              
+<img src="https://raw.githubusercontent.com/posmocoop/website/master/foerderung.png" width="820" align="center" />              
 
 -----              
 
