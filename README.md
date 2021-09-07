@@ -56,26 +56,20 @@ Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg L
 
 
 ### Verwaltung
-Neu gewählt für 2 Jahre: 
 - Thomas Hug
-   
-Bisher: 
 - Lea Strohm  
 - Roger Fischer
 
 ### Ethikrat mit AI&Data Oversight Committee (AIDOC)
-Neu gewählt für 2 Jahre:   
 - Roberta Fischli, Vorsitz
 - Marius Zumwald, Stellvertretung Vorsitz (AIDOC)
 - Dorothea Baur
 - Marcel Blattner (AIDOC)
-    
-Bisher:
 - Viktória Molnár 
 
 
 ### Arbeitsgruppen
-- VelObserver
+- [VelObserver](https://velobserver.posmo.coop)
 - Kommunikation
 - Fundraising
 - Spatial Future
@@ -101,6 +95,10 @@ Bankclearing (IID): 8390
 ### Unternehmens-Identifikationsnummer (UID)
 CHE-347.639.211             
                                  
+
+
+**[Unterstützt von]**
+
 
 ----
                                                               
