@@ -73,9 +73,10 @@ Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg L
 - Kommunikation
 - Fundraising
 - Spatial Future
-
-
-<img src="https://raw.githubusercontent.com/posmocoop/website/master/foerderung.png" width="780" align="center" />
+                   
+-----                     
+                      
+<img src="https://raw.githubusercontent.com/posmocoop/website/master/foerderung.png" width="800" align="center" />              
 
 -----              
 
