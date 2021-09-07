@@ -8,7 +8,7 @@ Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von masch
 Wenn wir Mobilität besser verstehen und für alle transparenter machen, können wir einen der der wichtigsten Treiber des Klimawandels beeinflussen. Daten über individuelles Mobilitätsverhalten liegen zurzeit jedoch in den Händen einiger weniger privaten Akteure, die diese Daten nicht mit der Öffentlichkeit teilen.  
 
 ## Posmo.coop - eine Datengenossenschaft
-Als Treuhänderin der Daten, die über die Posmo One (und Posmo B App) gesammelt werden, tritt die Genossenschaft Posmo Schweiz auf. Mitglieder der Genossenschaft entscheiden über die Weitergabe ihrer Daten an Drittparteien. Unter den Nutzer\*innen der Posmo One App wird breite Genossenschaftsmitgliedschaft angestrebt.  
+Als Treuhänderin der Daten, die über die Posmo One App und [Velobserver](https://www.velobserver.ch) gesammelt werden, tritt die Genossenschaft Posmo Schweiz auf. Mitglieder der Genossenschaft entscheiden über die Weitergabe ihrer Daten an Drittparteien. Unter den Nutzer\*innen der Posmo One App wird breite Genossenschaftsmitgliedschaft angestrebt.  
 
 ## Wie funktioniert Posmo?
 Die Posmo One App sammelt GPS- und andere Sensor-Daten über die Posmo One Mobile App. Sie interpretiert automatisch die Mobilitätsform und Streckensegmente des Nutzenden in Echtzeit mithilfe Maschinellen Lernens. Die gesammelten Daten können als Entscheidungsgrundlage für die Gestaltung einer nachhaltigeren Mobilität benutzt werden. Die Nutzer\*innen der Apps haben jederzeit vollste Kontrolle über Ihre Daten.
@@ -74,6 +74,9 @@ Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg L
 - Fundraising
 - Spatial Future
 
+
+**[Unterstützt von]**
+
 -----              
 
 ### Adresse                               
@@ -97,10 +100,7 @@ CHE-347.639.211
                                  
 
 
-**[Unterstützt von]**
-
-
-----
+-----
                                                               
 # Statuten der Genossenschaft Posmo Schweiz 
 mit Sitz in Zürich
