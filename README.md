@@ -75,8 +75,10 @@ Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https:/
 Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
           
                             
------                       
-<img src="https://raw.githubusercontent.com/posmocoop/website/master/f.svg" width="830" align="center" /> 
+-----              
+                          
+<img src="https://raw.githubusercontent.com/posmocoop/website/master/f.svg" width="830" align="center" />              
+                  
 -----              
 
 ### Adresse                               
