@@ -74,16 +74,16 @@ Nur für Genossenschaftsmitglieder! [Jetzt Genossenschafter\*in werden!](https:/
 ### Gründer\*innen
 Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
           
-                            
------  
-         
+<br />  
+                                   
+-----        
 <br />                                     
 <br />                                           
-<a href="https://www.migros-pionierfonds.ch/de"><img src="https://raw.githubusercontent.com/posmocoop/website/master/m.png" width="830" align="center" /></a>      <br />                      
-<br />     
-                                               
------              
-
+<a href="https://www.migros-pionierfonds.ch/de"><img src="https://raw.githubusercontent.com/posmocoop/website/master/m.png" width="830" align="center" /></a>      <br />                            
+<br />           
+                                     
+-----                                                   
+           
 ### Adresse                               
 Genossenschaft Posmo Schweiz                    
 Am Wasser 59              
