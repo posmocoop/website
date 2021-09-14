@@ -79,7 +79,7 @@ Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg L
 -----        
                                                       
 <br />                                           
-<a href="https://www.migros-pionierfonds.ch/de"><img src="https://raw.githubusercontent.com/posmocoop/website/master/m.png" width="830" align="center" /></a>      <br />                            
+<a href="https://www.migros-pionierfonds.ch/de"><img src="https://raw.githubusercontent.com/posmocoop/website/master/m.png" width="500" align="center" /></a>      <br />                            
 <br />           
                                      
 -----                                                   
