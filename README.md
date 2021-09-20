@@ -1,6 +1,8 @@
    
 # Mobility of the people, by the people, for the people. 
 
+<center><img src="https://raw.githubusercontent.com/posmocoop/website/9aefdb061c4f1a079e8964c3de1aece22c5f6a12/POSMO.svg" align="center" width="400" /></center>
+
 ## Was ist Posmo?
 Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von maschinellem Lernen kann Posmo verstehen, wie sich Menschen bewegen.
 
