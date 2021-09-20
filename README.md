@@ -1,5 +1,5 @@
    
-<center><img src="https://raw.githubusercontent.com/posmocoop/website/9aefdb061c4f1a079e8964c3de1aece22c5f6a12/POSMO.svg" align="center" width="400" /></center>
+
 
 # Mobility of the people, by the people, for the people. 
 
@@ -8,6 +8,8 @@ Posmo (POSitive MObility) ist eine Mobilitätsdatenplattform. Mithilfe von masch
 
 ## Wozu Posmo?
 Wenn wir Mobilität besser verstehen und für alle transparenter machen, können wir einen der der wichtigsten Treiber des Klimawandels beeinflussen. Daten über individuelles Mobilitätsverhalten liegen zurzeit jedoch in den Händen einiger weniger privaten Akteure, die diese Daten nicht mit der Öffentlichkeit teilen.  
+
+<center><img src="https://raw.githubusercontent.com/posmocoop/website/9aefdb061c4f1a079e8964c3de1aece22c5f6a12/POSMO.svg" align="center" width="400" /></center>
 
 ## Posmo.coop - eine Datengenossenschaft
 Als Treuhänderin der Daten, die über die Posmo One App und [Velobserver](https://www.velobserver.ch) gesammelt werden, tritt die Genossenschaft Posmo Schweiz auf. Mitglieder der Genossenschaft entscheiden über die Weitergabe ihrer Daten an Drittparteien. Unter den Nutzer\*innen der Posmo One App wird breite Genossenschaftsmitgliedschaft angestrebt.  
