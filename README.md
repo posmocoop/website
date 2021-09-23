@@ -77,7 +77,7 @@ Infos auf [posmocoop.slack.com](https://app.slack.com/client/TUJPE5TCN/C011HAMDX
                        
            
 ### Gründer\*innen
-Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktoria Molnar, Lea Strohm, Marius Zumwald
+Dominik Bucher, Alex Erath, Nadia Fischer, Roger Fischer, Valery Fischer, Oleg Lavrovsky, Viktória Molnár, Lea Strohm, Marius Zumwald
                              
 <br />               
                                                  
